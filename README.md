@@ -158,8 +158,8 @@ See [**Project Structure Guide**](PROJECT_STRUCTURE.md) for detailed folder and 
 ## ⭐ Star History
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Thisal-D/PyTube-Downloader&type=Date&theme=dark">
-  <img src="https://api.star-history.com/svg?repos=Thisal-D/PyTube-Downloader&type=Date&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://star-history.dera.page/svg?repos=Thisal-D/PyTube-Downloader&type=Date&theme=dark">
+  <img src="https://star-history.dera.page/svg?repos=Thisal-D/PyTube-Downloader&type=Date&theme=light">
 </picture>
 
 ---
